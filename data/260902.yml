@@ -1,0 +1,58 @@
+about:
+  description: 🔥 Feature-rich interactive Jira command line.
+  license: MIT
+  homepage: 
+  head: 11ec3f8
+  archived: false
+  latestVersion: v1.7.0
+  collectedAt: 2026-09-02T04:58:22Z
+timeline:
+  created: 2020-11-22
+  lastCommit: 2026-08-19
+  lastRelease: 2025-08-31
+popularity:
+  star: 5933
+  watcher: 35
+  fork: 411
+  release: 18
+  contributor: 66
+  pullRequest: 95
+  issue: 287
+language:
+  Go: 558871
+  Makefile: 1792
+  Dockerfile: 493
+totalLine: 561156
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 1
+    openPR: 3
+    closedIssue: 0
+    openIssue: 1
+    commit: 3
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 8
+    openPR: 5
+    closedIssue: 1
+    openIssue: 5
+    commit: 12
+  last180d:
+    since: 2026-03-06
+    release: 0
+    mergedPR: 11
+    openPR: 19
+    closedIssue: 4
+    openIssue: 13
+    commit: 12
+  last360d:
+    since: 2025-09-07
+    release: 0
+    mergedPR: 17
+    openPR: 40
+    closedIssue: 8
+    openIssue: 28
+    commit: 18

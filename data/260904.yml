@@ -7,7 +7,7 @@ about:
   head: 11ec3f8
   archived: false
   latestVersion: v1.7.0
-  collectedAt: 2026-09-04T19:55:20Z
+  collectedAt: 2026-09-04T20:49:34Z
 timeline:
   created: 2020-11-22
   lastCommit: 2026-08-19
@@ -82,6 +82,49 @@ total:
   openIssue: 110
   commit: 479
 ---
+path: /home/runner/.x-repo/github.com/ankitpokhrel/jira-cli
+collectedAt: 2026-09-04T20:49:36Z
+loc:
+  Go:
+    code: 18716
+    comments: 715
+    blanks: 3348
+    files: 145
+  Json:
+    code: 1687
+    comments: 0
+    blanks: 0
+    files: 23
+  Yaml:
+    code: 50
+    comments: 0
+    blanks: 3
+    files: 1
+  Makefile:
+    code: 35
+    comments: 14
+    blanks: 15
+    files: 1
+  Dockerfile:
+    code: 15
+    comments: 3
+    blanks: 10
+    files: 1
+  Markdown:
+    code: 0
+    comments: 585
+    blanks: 210
+    files: 1
+  Text:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 1
+total:
+  code: 20530
+  comments: 1323
+  blanks: 3598
+  files: 173
 ---
 date: "2026-08-24"
 repo:

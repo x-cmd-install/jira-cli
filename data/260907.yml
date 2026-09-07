@@ -5,13 +5,13 @@ about:
   head: 11ec3f8
   archived: false
   latestVersion: "v1.7.0"
-  collectedAt: 2026-09-07T05:36:16Z
+  collectedAt: 2026-09-07T18:58:57Z
 timeline:
   created: 2020-11-22
   lastCommit: 2026-08-19
   lastRelease: 2025-08-31
 popularity:
-  star: 5950
+  star: 5951
   watcher: 36
   fork: 413
   release: 18
@@ -81,7 +81,7 @@ total:
   commit: 479
 ---
 path: /home/runner/.x-repo/github.com/ankitpokhrel/jira-cli
-collectedAt: 2026-09-07T05:36:20Z
+collectedAt: 2026-09-07T18:59:00Z
 loc:
   Go:
     code: 18716
@@ -235,7 +235,7 @@ checks:
       - 'Warn: 0 commits out of 26 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:36:22+00:00
+  collectedAt: 2026-09-07T18:59:02+00:00
   platform:
     darwin/arm64:
       name:  jira_1.7.0_macOS_arm64.tar.gz

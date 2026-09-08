@@ -5,7 +5,7 @@ about:
   head: 11ec3f8
   archived: false
   latestVersion: "v1.7.0"
-  collectedAt: 2026-09-08T02:41:38Z
+  collectedAt: 2026-09-08T05:33:39Z
 timeline:
   created: 2020-11-22
   lastCommit: 2026-08-19
@@ -81,7 +81,7 @@ total:
   commit: 479
 ---
 path: /home/runner/.x-repo/github.com/ankitpokhrel/jira-cli
-collectedAt: 2026-09-08T02:41:43Z
+collectedAt: 2026-09-08T05:33:45Z
 loc:
   Go:
     code: 18716

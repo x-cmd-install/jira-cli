@@ -12,35 +12,7 @@
 x install jira-cli
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/ankitpokhrel/jira-cli>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v1.7.0` (2025-08-31)
-- **Last commit**: 2026-08-19
-- **Assets in release**: 8
-- **Published**: 2025-08-31T08:28:23Z
-
-## Popularity
-
-- **Stars**: 5,959 · **Forks**: 413 · **Open issues**: 290 · **Contributors**: 66
-
-## Totals (cumulative)
-
-- **Releases**: 18 · **Merged PRs**: 379 · **Open PRs**: 59 · **Closed issues**: 179 · **Open issues**: 111 · **Commits**: 479
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 6 | 0 | 4 | 2 |
-| 90d | 2026-06-12 | 0 | 8 | 9 | 1 | 8 | 12 |
-| 360d | 2025-09-15 | 0 | 17 | 44 | 7 | 30 | 18 |
-
-## Code size
+## Code insight
 
 Total: **20,503** lines of code across **171** files in the top 5 languages.
 
@@ -62,13 +34,56 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/ankitpokhrel/jira-cli>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v1.7.0` (2025-08-31)
+- **Last commit**: 2026-08-19
+- **Assets in release**: 8
+
+## Popularity
+
+- **Stars**: 5,959 · **Forks**: 413 · **Open issues**: 291 · **Contributors**: 66
+
+## Totals (cumulative)
+
+- **Releases**: 18 · **Merged PRs**: 379 · **Open PRs**: 59 · **Closed issues**: 179 · **Open issues**: 112 · **Commits**: 479
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 6 | 0 | 5 | 2 |
+| last60d | 2026-07-12 | 0 | 7 | 9 | 0 | 5 | 12 |
+| 90d | 2026-06-12 | 0 | 8 | 9 | 1 | 9 | 12 |
+| last180d | 2026-03-14 | 0 | 11 | 20 | 4 | 17 | 12 |
+| 360d | 2025-09-15 | 0 | 17 | 44 | 7 | 31 | 18 |
+| last720d | 2024-09-20 | 3 | 40 | 53 | 33 | 54 | 55 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/ankitpokhrel/jira-cli/releases/download/v1.7.0/checksums.txt) | 673 B | `other` |
+| [jira_1.7.0_linux_arm64.tar.gz](https://github.com/ankitpokhrel/jira-cli/releases/download/v1.7.0/jira_1.7.0_linux_arm64.tar.gz) | 6.4 MiB | `native/linux/arm64` |
+| [jira_1.7.0_linux_armv6.tar.gz](https://github.com/ankitpokhrel/jira-cli/releases/download/v1.7.0/jira_1.7.0_linux_armv6.tar.gz) | 6.6 MiB | `native/linux/arm` |
+| [jira_1.7.0_linux_i386.tar.gz](https://github.com/ankitpokhrel/jira-cli/releases/download/v1.7.0/jira_1.7.0_linux_i386.tar.gz) | 6.5 MiB | `native/linux/x86` |
+| [jira_1.7.0_linux_x86_64.tar.gz](https://github.com/ankitpokhrel/jira-cli/releases/download/v1.7.0/jira_1.7.0_linux_x86_64.tar.gz) | 6.9 MiB | `native/linux/x64` |
+| [jira_1.7.0_macOS_arm64.tar.gz](https://github.com/ankitpokhrel/jira-cli/releases/download/v1.7.0/jira_1.7.0_macOS_arm64.tar.gz) | 6.5 MiB | `native/darwin/arm64` |
+| [jira_1.7.0_macOS_x86_64.tar.gz](https://github.com/ankitpokhrel/jira-cli/releases/download/v1.7.0/jira_1.7.0_macOS_x86_64.tar.gz) | 6.9 MiB | `native/darwin/x64` |
+| [jira_1.7.0_windows_x86_64.zip](https://github.com/ankitpokhrel/jira-cli/releases/download/v1.7.0/jira_1.7.0_windows_x86_64.zip) | 6.9 MiB | `native/win/x64` |
+
 ## Improve this data
 
 Install metadata for jira-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jira-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/jira-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jira-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:53:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:47:07Z._

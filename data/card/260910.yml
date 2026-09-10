@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.7.0"
   latestRelease: "v1.7.0"
   latestPrerelease: "v1.0.0-beta.2"
-  collectedAt: 2026-09-10T05:53:31Z
+  collectedAt: 2026-09-10T17:42:59Z
 timeline:
   created: 2020-11-22
   lastCommit: 2026-08-19
@@ -21,7 +21,7 @@ popularity:
   release: 18
   contributor: 66
   pullRequest: 478
-  issue: 290
+  issue: 291
 language:
   Go: 558871
   Makefile: 1792
@@ -34,7 +34,7 @@ recent:
     mergedPR: 1
     openPR: 6
     closedIssue: 0
-    openIssue: 4
+    openIssue: 5
     commit: 2
   last60d:
     since: 2026-07-12
@@ -42,7 +42,7 @@ recent:
     mergedPR: 7
     openPR: 9
     closedIssue: 0
-    openIssue: 4
+    openIssue: 5
     commit: 12
   last90d:
     since: 2026-06-12
@@ -50,7 +50,7 @@ recent:
     mergedPR: 8
     openPR: 9
     closedIssue: 1
-    openIssue: 8
+    openIssue: 9
     commit: 12
   last180d:
     since: 2026-03-14
@@ -58,7 +58,7 @@ recent:
     mergedPR: 11
     openPR: 20
     closedIssue: 4
-    openIssue: 16
+    openIssue: 17
     commit: 12
   last360d:
     since: 2025-09-15
@@ -66,7 +66,7 @@ recent:
     mergedPR: 17
     openPR: 44
     closedIssue: 7
-    openIssue: 30
+    openIssue: 31
     commit: 18
   last720d:
     since: 2024-09-20
@@ -74,18 +74,18 @@ recent:
     mergedPR: 40
     openPR: 53
     closedIssue: 33
-    openIssue: 53
+    openIssue: 54
     commit: 55
 total:
   release: 18
   mergedPR: 379
   openPR: 59
   closedIssue: 179
-  openIssue: 111
+  openIssue: 112
   commit: 479
 ---
 path: /home/runner/.x-repo/github.com/ankitpokhrel/jira-cli
-collectedAt: 2026-09-10T05:53:35Z
+collectedAt: 2026-09-10T17:43:03Z
 loc:
   Go:
     code: 18716

@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.7.0"
   latestRelease: "v1.7.0"
   latestPrerelease: "v1.0.0-beta.2"
-  collectedAt: 2026-09-11T05:47:17Z
+  collectedAt: 2026-09-11T19:05:46Z
 timeline:
   created: 2020-11-22
   lastCommit: 2026-08-19
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-08-31
   lastPrerelease: 2022-06-20
 popularity:
-  star: 5959
+  star: 5961
   watcher: 36
   fork: 413
   release: 18
@@ -85,7 +85,7 @@ total:
   commit: 479
 ---
 path: /home/runner/.x-repo/github.com/ankitpokhrel/jira-cli
-collectedAt: 2026-09-11T05:47:24Z
+collectedAt: 2026-09-11T19:05:54Z
 loc:
   Go:
     code: 18716

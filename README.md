@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,993 · **Forks**: 416 · **Open issues**: 293 · **Contributors**: 66
+- **Stars**: 5,996 · **Forks**: 415 · **Open issues**: 293 · **Contributors**: 66
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 1 | 6 | 0 | 6 | 1 |
-| last60d | 2026-07-29 | 0 | 7 | 10 | 0 | 7 | 4 |
-| 90d | 2026-06-29 | 0 | 8 | 11 | 0 | 9 | 13 |
-| last180d | 2026-03-31 | 0 | 11 | 22 | 1 | 16 | 13 |
-| 360d | 2025-10-02 | 0 | 18 | 44 | 7 | 32 | 19 |
-| last720d | 2024-10-07 | 2 | 40 | 55 | 33 | 53 | 54 |
+| 30d | 2026-08-29 | 0 | 1 | 6 | 0 | 6 | 1 |
+| last60d | 2026-07-30 | 0 | 4 | 10 | 0 | 7 | 4 |
+| 90d | 2026-06-30 | 0 | 8 | 11 | 0 | 9 | 13 |
+| last180d | 2026-04-01 | 0 | 11 | 22 | 1 | 16 | 13 |
+| 360d | 2025-10-03 | 0 | 18 | 44 | 7 | 32 | 19 |
+| last720d | 2024-10-08 | 2 | 40 | 55 | 33 | 52 | 54 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for jira-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:14:37Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:15:22Z._

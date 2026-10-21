@@ -30,7 +30,7 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 13/30 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,035 · **Forks**: 420 · **Open issues**: 293 · **Contributors**: 66
+- **Stars**: 6,037 · **Forks**: 421 · **Open issues**: 293 · **Contributors**: 66
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 2 | 4 | 0 | 2 | 2 |
-| last60d | 2026-08-21 | 0 | 2 | 9 | 0 | 7 | 3 |
-| 90d | 2026-07-22 | 0 | 8 | 12 | 0 | 7 | 15 |
-| last180d | 2026-04-23 | 0 | 11 | 17 | 1 | 13 | 15 |
-| 360d | 2025-10-25 | 0 | 20 | 43 | 8 | 31 | 21 |
-| last720d | 2024-10-30 | 2 | 42 | 55 | 32 | 49 | 56 |
+| 30d | 2026-09-21 | 0 | 2 | 4 | 0 | 0 | 2 |
+| last60d | 2026-08-22 | 0 | 2 | 9 | 0 | 7 | 3 |
+| 90d | 2026-07-23 | 0 | 8 | 12 | 0 | 7 | 15 |
+| last180d | 2026-04-24 | 0 | 11 | 17 | 1 | 12 | 15 |
+| 360d | 2025-10-26 | 0 | 20 | 43 | 8 | 31 | 21 |
+| last720d | 2024-10-31 | 2 | 42 | 55 | 32 | 49 | 56 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for jira-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:38:58Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:33:18Z._

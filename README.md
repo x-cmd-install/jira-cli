@@ -26,7 +26,7 @@ Total: **20,500** lines of code across **171** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 1 | 4 | 0 | 4 | 2 |
-| last60d | 2026-09-05 | 0 | 2 | 8 | 0 | 8 | 3 |
-| 90d | 2026-08-06 | 0 | 3 | 14 | 0 | 11 | 6 |
-| last180d | 2026-05-08 | 0 | 10 | 17 | 1 | 15 | 15 |
-| 360d | 2025-11-09 | 0 | 19 | 42 | 9 | 34 | 20 |
-| last720d | 2024-11-14 | 2 | 41 | 56 | 33 | 52 | 56 |
+| 30d | 2026-10-06 | 0 | 1 | 4 | 0 | 4 | 2 |
+| last60d | 2026-09-06 | 0 | 2 | 8 | 0 | 8 | 3 |
+| 90d | 2026-08-07 | 0 | 3 | 14 | 0 | 11 | 6 |
+| last180d | 2026-05-09 | 0 | 10 | 17 | 1 | 15 | 15 |
+| 360d | 2025-11-10 | 0 | 19 | 42 | 9 | 34 | 20 |
+| last720d | 2024-11-15 | 2 | 41 | 56 | 33 | 52 | 56 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for jira-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:15:54Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:37:44Z._

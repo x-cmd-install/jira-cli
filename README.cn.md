@@ -24,16 +24,6 @@ x install jira-cli
 | Makefile | 35 | 14 | 15 | 1 |
 | Dockerfile | 15 | 3 | 10 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.4 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/ankitpokhrel/jira-cli>
@@ -47,7 +37,7 @@ x install jira-cli
 
 ## 流行度
 
-- **Star**: 6,065 · **Fork**: 431 · **开放 issue**: 297 · **贡献者**: 66
+- **Star**: 6,066 · **Fork**: 431 · **开放 issue**: 297 · **贡献者**: 66
 
 ## 累计统计
 
@@ -57,12 +47,12 @@ x install jira-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 1 | 4 | 0 | 4 | 1 |
-| last60d | 2026-09-10 | 0 | 2 | 8 | 0 | 6 | 3 |
-| 90d | 2026-08-11 | 0 | 3 | 14 | 0 | 11 | 5 |
-| last180d | 2026-05-13 | 0 | 10 | 17 | 1 | 15 | 15 |
-| 360d | 2025-11-14 | 0 | 19 | 41 | 9 | 34 | 20 |
-| last720d | 2024-11-19 | 2 | 40 | 56 | 33 | 52 | 56 |
+| 30d | 2026-10-11 | 0 | 1 | 4 | 0 | 4 | 1 |
+| last60d | 2026-09-11 | 0 | 2 | 8 | 0 | 6 | 3 |
+| 90d | 2026-08-12 | 0 | 3 | 14 | 0 | 11 | 5 |
+| last180d | 2026-05-14 | 0 | 10 | 17 | 1 | 15 | 15 |
+| 360d | 2025-11-15 | 0 | 19 | 41 | 9 | 34 | 20 |
+| last720d | 2024-11-20 | 2 | 40 | 56 | 33 | 52 | 56 |
 
 ## Release 资产
 
@@ -86,4 +76,4 @@ jira-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:26:34Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:18:15Z._

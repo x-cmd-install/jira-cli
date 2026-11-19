@@ -24,6 +24,16 @@ Total: **20,500** lines of code across **171** files in the top 5 languages.
 | Makefile | 35 | 14 | 15 | 1 |
 | Dockerfile | 15 | 3 | 10 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
+- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/ankitpokhrel/jira-cli>
@@ -37,22 +47,22 @@ Total: **20,500** lines of code across **171** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,075 · **Forks**: 434 · **Open issues**: 297 · **Contributors**: 66
+- **Stars**: 6,085 · **Forks**: 435 · **Open issues**: 297 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 382 · **Open PRs**: 63 · **Closed issues**: 181 · **Open issues**: 116 · **Commits**: 482
+- **Releases**: 18 · **Merged PRs**: 382 · **Open PRs**: 64 · **Closed issues**: 181 · **Open issues**: 116 · **Commits**: 482
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 4 | 0 | 4 | 0 |
-| last60d | 2026-09-17 | 0 | 2 | 8 | 0 | 6 | 2 |
-| 90d | 2026-08-18 | 0 | 2 | 14 | 0 | 11 | 3 |
-| last180d | 2026-05-20 | 0 | 10 | 18 | 1 | 15 | 15 |
-| 360d | 2025-11-21 | 0 | 19 | 42 | 9 | 34 | 20 |
-| last720d | 2024-11-26 | 2 | 40 | 57 | 33 | 52 | 56 |
+| 30d | 2026-10-20 | 0 | 0 | 5 | 0 | 4 | 0 |
+| last60d | 2026-09-20 | 0 | 2 | 9 | 0 | 6 | 2 |
+| 90d | 2026-08-21 | 0 | 2 | 14 | 0 | 11 | 3 |
+| last180d | 2026-05-23 | 0 | 10 | 19 | 1 | 15 | 15 |
+| 360d | 2025-11-24 | 0 | 19 | 43 | 9 | 34 | 20 |
+| last720d | 2024-11-29 | 2 | 40 | 58 | 33 | 52 | 56 |
 
 ## Release assets
 
@@ -76,4 +86,4 @@ Install metadata for jira-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:53:25Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:08:31Z._
